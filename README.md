@@ -24,6 +24,11 @@
     
 <br/>
 
-4.결과물
+4.예정
+ - 당연당연 모바일버전 추가하고 싶다! 조만간 할거임.
+
+<br/>
+
+5.결과물
 
 http://7uckystrike.github.io/movie_app/
