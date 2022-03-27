@@ -8,7 +8,7 @@ function Navbar() {
         <Link to="/" style={{ textDecoration: 'none' }}>
           <h1>MOVIEWEB</h1>
         </Link>
-        <Link to="/SingIn" style={{ textDecoration: 'none' }}>
+        <Link to="/SingIn" className={styles.SingIn}>
           <h3>SIGN IN</h3>
         </Link>
       </div>

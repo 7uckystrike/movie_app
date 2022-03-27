@@ -24,7 +24,9 @@ function Detail() {
   return (
     <div>
       {loading ? ( 
-        <h1>Loading ...</h1> 
+        <h1 className={styles.loader}>
+          loading
+        </h1>
       ) : (
         <div className={styles.detail}>
           <div className={styles.detail__box}>
