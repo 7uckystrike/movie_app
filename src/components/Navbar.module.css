@@ -15,16 +15,15 @@
 
 .SingIn {
   padding-right: 50px;
-  text-decoration: none;
+  text-decoration: none;  
+  color: white;
 }
 
-h1 {
+.MovieWeb {
+  padding-left: 30px;
+  text-decoration: none;
   color: red;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 18px;
   letter-spacing: -2px;
-}
-
-h3 {
-  color: white;
 }

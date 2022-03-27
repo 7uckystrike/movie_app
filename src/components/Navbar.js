@@ -5,7 +5,7 @@ function Navbar() {
   return(
     <div className={styles.Nav__container}>
       <div className={styles.Nav__side}>
-        <Link to="/" style={{ textDecoration: 'none' }}>
+        <Link to="/" className={styles.MovieWeb}>
           <h1>MOVIEWEB</h1>
         </Link>
         <Link to="/SingIn" className={styles.SingIn}>
